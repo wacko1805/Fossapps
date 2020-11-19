@@ -8,6 +8,12 @@ Basicly GAPPS, but all apps are open source and not Google apps
 
 As I have made many different versions of FOSSAPPS, I have made a simple site to download the FOSSAPPS version that you need!
 
+## Before and after FOSSAPPS (Beta only)
+
+![Before](https://un.pixel-fy.com/images/stock.png)
+![After](https://un.pixel-fy.com/images/FOSSAPPS.png)
+
+
 ## I need your help! If you can, please fill out my survey!
 
  The survey helps me understand what users want from FOSSAPPS so i can make better updates in the future
