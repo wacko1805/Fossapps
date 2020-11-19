@@ -10,8 +10,8 @@ As I have made many different versions of FOSSAPPS, I have made a simple site to
 
 ## Before and after FOSSAPPS (Beta only)
 
-![Before](https://un.pixel-fy.com/images/stock.png =250x)
-![After](https://un.pixel-fy.com/images/FOSSAPPS.png =250x)
+![Before](https://un.pixel-fy.com/images/stock.png | width=100)
+![After](https://un.pixel-fy.com/images/FOSSAPPS.png | width=100)
 
 
 ## I need your help! If you can, please fill out my survey!
