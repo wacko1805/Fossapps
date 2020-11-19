@@ -1,17 +1,16 @@
 ![FOSSAPPS Logo](https://i.imgur.com/GdfuLSZ_d.webp?maxwidth=1520&fidelity=grand)
 
 
-
 Basicly GAPPS, but all apps are open source and not Google apps
 
 ## Want an easier way to download? [View my new site!](https://un.pixel-fy.com/FOSSAPPS/download/)
 
 As I have made many different versions of FOSSAPPS, I have made a simple site to download the FOSSAPPS version that you need!
 
-## Before and after FOSSAPPS (Beta only)
+## Before and after flashing FOSSAPPS (Beta only)
 
-![Before](https://un.pixel-fy.com/images/stock.png | width=100)
-![After](https://un.pixel-fy.com/images/FOSSAPPS.png | width=100)
+<p><img src="https://un.pixel-fy.com/images/stock.png" width="200">
+<img src="https://un.pixel-fy.com/images/FOSSAPPS.png" width="200"></p>
 
 
 ## I need your help! If you can, please fill out my survey!
