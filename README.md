@@ -1,5 +1,6 @@
 ![FOSSAPPS Logo](https://i.imgur.com/GdfuLSZ_d.webp?maxwidth=1520&fidelity=grand)
 
+<p><img src="https://un.pixel-fy.com/favicon.ico" width="50"></p>
 
 Basicly GAPPS, but all apps are open source and not Google apps
 
