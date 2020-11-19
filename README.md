@@ -1,4 +1,5 @@
-[](https://i.imgur.com/GdfuLSZ_d.webp?maxwidth=1520&fidelity=grand)
+![FOSSAPPS Logo](https://i.imgur.com/GdfuLSZ_d.webp?maxwidth=1520&fidelity=grand)
+
 
 Free and Open Source GAPPS Alternative
 
