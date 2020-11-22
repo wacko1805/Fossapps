@@ -1,5 +1,5 @@
 ![FOSSAPPS Logo](https://i.imgur.com/GdfuLSZ_d.webp?maxwidth=1520&fidelity=grand)
-
+![GitHub all releases](https://img.shields.io/github/downloads/wacko1805/FOSSAPPS/total?style=plastic) [![GitHub license](https://img.shields.io/github/license/wacko1805/FOSSAPPS?style=plastic)](https://github.com/wacko1805/FOSSAPPS/blob/main/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/wacko1805/FOSSAPPS?style=plastic)](https://github.com/wacko1805/FOSSAPPS/stargazers)
 <p><img src="https://un.pixel-fy.com/favicon.ico" width="50"></p>
 
 Basicly GAPPS, but all apps are open source and not Google apps
@@ -8,36 +8,40 @@ Basicly GAPPS, but all apps are open source and not Google apps
 
 As I have made many different versions of FOSSAPPS, I have made a simple site to download the FOSSAPPS version that you need!
 
+## [Suggest an app for FOSSAPPS!](https://docs.google.com/forms/d/e/1FAIpQLSfqZE6uSzasOvXnYhnHrP5iF86aFc05HAW85wMt0ZRYWSBG_Q/viewform)
+
 ## Before and after flashing FOSSAPPS (Beta only)
 
 <p><img src="https://un.pixel-fy.com/images/stock.png" width="200">
 <img src="https://un.pixel-fy.com/images/FOSSAPPS.png" width="200"></p>
 
 
-## I need your help! If you can, please fill out my survey!
+## I need your help! If you can, please fill out [my survey!](https://forms.gle/LdYKSE4owmpXYc9S8)
 
- The survey helps me understand what users want from FOSSAPPS so i can make better updates in the future
 
-[survey](https://forms.gle/LdYKSE4owmpXYc9S8)
-
+ The survey helps me understand what users want from FOSSAPPS so I can make better updates in the future
 
 
 
 ## All the apps used in FOSSAPPS:
 
-[QKMSM](https://github.com/moezbhatti/qksms)  
-[Koler](https://github.com/Chooloo/call_manage)  
-[Lawnchair](https://github.com/raphtlw/Lawnchair)  
-[Quickswitch](https://github.com/skittles9823/QuickSwitch)  
-[Etar](https://github.com/Etar-Group/Etar-Calendar)  
-[Metro Music](https://github.com/MuntashirAkon/Metro)  
-[Kiwi](https://github.com/kiwibrowser)  
-[K9-Mail](https://k9mail.app/)  
-[Ncalc](https://github.com/tranleduy2000/ncalc)  
-[Open Camera](https://opencamera.org.uk/)  
-[F-Droid](https://f-droid.org/)  
-[NewPipe](https://github.com/TeamNewPipe/NewPipe)
-[MicroG](https://github.com/microg/)
+*All apps are either from github, or F-Droid*
+
+* [QKMSM](https://github.com/moezbhatti/qksms)  
+* [Koler](https://github.com/Chooloo/call_manage)  
+* [Lawnchair](https://github.com/raphtlw/Lawnchair)  
+* [Quickswitch](https://github.com/skittles9823/QuickSwitch)  
+* [Etar](https://github.com/Etar-Group/Etar-Calendar)  
+* [Metro Music](https://github.com/MuntashirAkon/Metro)  
+* [Kiwi](https://github.com/kiwibrowser)  
+* [K9-Mail](https://k9mail.app/)  
+* [Ncalc](https://github.com/tranleduy2000/ncalc)  
+* [Open Camera](https://opencamera.org.uk/)  
+* [F-Droid](https://f-droid.org/)  
+* [NewPipe](https://github.com/TeamNewPipe/NewPipe)
+* [MicroG](https://github.com/microg/)
+* [Audio Recorder](https://f-droid.org/en/packages/com.github.axet.audiorecorder/)
+* [Simple gallery Pro](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/)
 
 ## Requirements:
 
