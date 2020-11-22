@@ -1,6 +1,6 @@
 id=FOSSAPPS
-name=FOSSAPPS
-version=v1.5
-versionCode=050620
+name=Fossapps
+version=v1.7
+versionCode=7
 author=Wacko1805
-description=Basicly GAPPS, but all apps are open source and not Google apps
+description=A Free and Open Source alternative to GAPPS. 
