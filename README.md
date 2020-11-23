@@ -2,11 +2,18 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/wacko1805/FOSSAPPS/total?style=plastic) [![GitHub license](https://img.shields.io/github/license/wacko1805/FOSSAPPS?style=plastic)](https://github.com/wacko1805/FOSSAPPS/blob/main/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/wacko1805/FOSSAPPS?style=plastic)](https://github.com/wacko1805/FOSSAPPS/stargazers)
 <p><img src="https://un.pixel-fy.com/favicon.ico" width="50"></p>
 
-Basicly GAPPS, but all apps are open source and not Google apps
 
 ## Want an easier way to download? [View my new site!](https://un.pixel-fy.com/FOSSAPPS/download/)
 
 As I have made many different versions of FOSSAPPS, I have made a simple site to download the FOSSAPPS version that you need!
+
+## Introducing Fossapps Addons! 
+
+Current Addons:
+   * Fossapps GCA (Google Services Addon)
+         Installs Aurora Store and Youtube Vanced
+         
+        [Download Fossapps GCA](https://github.com/wacko1805/Fossapps-Addons)
 
 ## [Suggest an app for FOSSAPPS!](https://docs.google.com/forms/d/e/1FAIpQLSfqZE6uSzasOvXnYhnHrP5iF86aFc05HAW85wMt0ZRYWSBG_Q/viewform)
 
