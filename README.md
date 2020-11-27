@@ -1,6 +1,5 @@
 ![FOSSAPPS Logo](https://i.imgur.com/GdfuLSZ_d.webp?maxwidth=1520&fidelity=grand)
 ![GitHub all releases](https://img.shields.io/github/downloads/wacko1805/FOSSAPPS/total?style=plastic) [![GitHub license](https://img.shields.io/github/license/wacko1805/FOSSAPPS?style=plastic)](https://github.com/wacko1805/FOSSAPPS/blob/main/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/wacko1805/FOSSAPPS?style=plastic)](https://github.com/wacko1805/FOSSAPPS/stargazers)
-<p><img src="https://un.pixel-fy.com/favicon.ico" width="50"></p>
 
 
 ## Want an easier way to download? [View my new site!](https://un.pixel-fy.com/FOSSAPPS/download/)
@@ -19,8 +18,8 @@ Current Addons:
 
 ## Before and after flashing FOSSAPPS (Beta only)
 
-<p><img src="https://un.pixel-fy.com/images/stock.png" width="200">
-<img src="https://un.pixel-fy.com/images/FOSSAPPS.png" width="200"></p>
+<p><img src="https://un.pixel-fy.com/assets/images/before.png" width="200">
+<img src="https://un.pixel-fy.com/assets/images/after.png" width="200"></p>
 
 
 ## I need your help! If you can, please fill out [my survey!](https://forms.gle/LdYKSE4owmpXYc9S8)
