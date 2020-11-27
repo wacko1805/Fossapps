@@ -30,7 +30,7 @@ Current Addons:
 <img src="https://un.pixel-fy.com/assets/images/after.png" width="200"></p>
 
 
-<h2 align="center"> <a href="https://forms.gle/LdYKSE4owmpXYc9S8">I need your help! If you can, please fill out My Survey!</a>
+<h2 align="center"> <a href="https://forms.gle/LdYKSE4owmpXYc9S8">I need your help! If you can, please fill out My Survey!</a> <h2>
 
 
  The survey helps me understand what users want from FOSSAPPS so I can make better updates in the future
