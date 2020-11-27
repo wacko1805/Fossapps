@@ -14,7 +14,7 @@
 
 As I have made many different versions of FOSSAPPS, I have made a simple site to download the FOSSAPPS version that you need!
 
-<h2 align="center">  Introducing Fossapps Addons! 
+<h2 align="center">  Introducing Fossapps Addons! </h2>
 
 Current Addons:
    * Fossapps GCA (Google Services Addon)
@@ -22,7 +22,7 @@ Current Addons:
          
         [Download Fossapps GCA](https://github.com/wacko1805/Fossapps-Addons)
 
-<h2 align="center">  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfqZE6uSzasOvXnYhnHrP5iF86aFc05HAW85wMt0ZRYWSBG_Q/viewform">Suggest an app for FOSSAPPS!</a>
+<h2 align="center">  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfqZE6uSzasOvXnYhnHrP5iF86aFc05HAW85wMt0ZRYWSBG_Q/viewform">Suggest an app for FOSSAPPS!</a> </h2>
 
 <h2 align="center">  Before and after flashing FOSSAPPS (Beta only) </h2>
 
@@ -30,14 +30,14 @@ Current Addons:
 <img src="https://un.pixel-fy.com/assets/images/after.png" width="200"></p>
 
 
-<h2 align="center"> <a href="https://forms.gle/LdYKSE4owmpXYc9S8">I need your help! If you can, please fill out My Survey!</a> <h2>
+<h2 align="center"> <a href="https://forms.gle/LdYKSE4owmpXYc9S8">I need your help! If you can, please fill out My Survey!</a> </h2>
 
 
  The survey helps me understand what users want from FOSSAPPS so I can make better updates in the future
 
 
 
-<h2 align="center"> All the apps used in FOSSAPPS: <h2>
+<h2 align="center"> All the apps used in FOSSAPPS: </h2>
 
 *All apps are either from github, or F-Droid*
 
@@ -57,7 +57,7 @@ Current Addons:
 * [Audio Recorder](https://f-droid.org/en/packages/com.github.axet.audiorecorder/)
 * [Simple gallery Pro](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/)
 
-<h2 align="center"> Requirements: </h2
+<h2 align="center"> Requirements: </h2>
 
 * Magisk 18 or higher
 * Android 8 or higher
