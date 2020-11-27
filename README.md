@@ -24,9 +24,9 @@ Current Addons:
 
 <h2 align="center">  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfqZE6uSzasOvXnYhnHrP5iF86aFc05HAW85wMt0ZRYWSBG_Q/viewform">Suggest an app for FOSSAPPS!</a>
 
-<h2 align="center">  Before and after flashing FOSSAPPS (Beta only)
+<h2 align="center">  Before and after flashing FOSSAPPS (Beta only) </h2>
 
-<p><img src="https://un.pixel-fy.com/assets/images/before.png" width="200">
+<p align="center"><img src="https://un.pixel-fy.com/assets/images/before.png" width="200">
 <img src="https://un.pixel-fy.com/assets/images/after.png" width="200"></p>
 
 
@@ -37,7 +37,7 @@ Current Addons:
 
 
 
-<h2 align="center"> All the apps used in FOSSAPPS:
+<h2 align="center"> All the apps used in FOSSAPPS: <h2>
 
 *All apps are either from github, or F-Droid*
 
