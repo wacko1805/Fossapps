@@ -104,3 +104,6 @@ The Beta release of Fossapps attempts to remove the system apps that it replaces
  <h2 align="center"> License </h2>
  
  FOSSAPPS is released under the [Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0)
+ 
+   <h2 align="center"><a href="#'>Back too top </h2></a>
+
