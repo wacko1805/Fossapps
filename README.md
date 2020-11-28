@@ -75,6 +75,27 @@ It doesn't need to be flashed when you flash a rom. It can be flashed whenever a
 3. Change defualt apps and uninstall/disable any unused apps
 3. Set up quickswitch with lawnchair [more info about quickswitch](https://github.com/skittles9823/QuickSwitch#installation)
 
+<h2 align="center"> About the Beta: </h2>
+
+The Beta release of Fossapps attempts to remove the system apps that it replaces, but it CANNOT remove apps in the data partition. View the list below to see if the beta will work for you:
+
+<h3> Works: </h3>
+
+  * LineageOS (Will work on most Lineage or Roms without Gapps)
+  * ArrowOs
+  * POSP
+  * roms flashed with OpenGapps
+  
+ <h3> Doesn't Work: </h3>
+  
+  * Pixel Experience
+  * Pixel Expirence Based Roms
+  * Stock Pixel Firmware
+  * most stock roms
+  * Roms flashed with NikGapps or FlameGapps
+  
+  
+
 <h2 align="center"> Sources: </h2>
 
    * [Magisk](https://github.com/topjohnwu/Magisk) by [topjohnwu](https://github.com/topjohnwu)
