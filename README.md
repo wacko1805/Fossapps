@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Fossapps Logo" src="https://un.pixel-fy.com/assets/images/FOSSAPPS-logo.png">
+  <a href="https://un.pixel-fy.com/"><img alt="Fossapps Logo" src="https://un.pixel-fy.com/assets/images/FOSSAPPS-logo.png"></a>
   </p>
 
 <p align="center">
