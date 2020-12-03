@@ -57,9 +57,19 @@ Current Addons:
 * [Audio Recorder](https://f-droid.org/en/packages/com.github.axet.audiorecorder/)
 * [Simple gallery Pro](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/)
 
+<h2 align="center"> All the apps used in FOSSAPPS Micro: </h2>
+
+* [QKMSM](https://github.com/moezbhatti/qksms)  
+* [Koler](https://github.com/Chooloo/call_manage)  
+* [Kiwi](https://github.com/kiwibrowser)  
+* [Ncalc](https://github.com/tranleduy2000/ncalc)  
+* [Open Camera](https://opencamera.org.uk/)  
+* [Audio Recorder](https://f-droid.org/en/packages/com.github.axet.audiorecorder/)
+* [Simple gallery Pro](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/)
+
 <h2 align="center"> Requirements: </h2>
 
-* Magisk 18 or higher
+* Magisk 21 or higher
 * Android 8 or higher
     
 <h2 align="center"> Infomation: </h2>
