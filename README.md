@@ -63,7 +63,7 @@ Fossapps is a Free and Open Source Gapps alternative, installing FOSS apps direc
 
 <h1 align="center"> Requirements: </h1>
 
-* Magisk 21 or higher
+* Magisk 20 or higher
 * Android 8 or higher
 
 
