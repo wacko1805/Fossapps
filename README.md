@@ -28,7 +28,8 @@ Fossapps is a Free and Open Source Gapps alternative, installing FOSS apps direc
 
 ### Stock Package:
 * [QKMSM](https://github.com/moezbhatti/qksms)  
-* [Koler](https://github.com/Chooloo/call_manage)  
+* [Simple contacts pro](https://github.com/SimpleMobileTools/Simple-Contacts)  
+* [Simple Dialer pro](https://github.com/SimpleMobileTools/Simple-Dialer)
 * [Lawnchair](https://github.com/raphtlw/Lawnchair)  
 * [Quickswitch](https://github.com/skittles9823/QuickSwitch)  
 * [Etar](https://github.com/Etar-Group/Etar-Calendar)  
