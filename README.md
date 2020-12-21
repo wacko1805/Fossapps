@@ -1,4 +1,5 @@
 # FOSSAPPS Beta
+# (Fossapps Beta is now discontinued) 
 
 Free and Open Source GAPPS Alternative
 
