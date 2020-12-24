@@ -106,10 +106,15 @@ prop_process() {
 }
 
 # Credits
-ui_print "**************************************"
-ui_print "*   FOSSAPPS by Wacko1805  *"
-ui_print "**************************************"
+                           
+ui_print "-█▀▀ █▀█ █▀ █▀ ▄▀█ █▀█ █▀█ █▀"
+ui_print "-█▀░ █▄█ ▄█ ▄█ █▀█ █▀▀ █▀▀ ▄█ 𝙨𝙩𝙤𝙘𝙠"
+ui_print "-By wacko1805"
+ui_print "-Visit the home of Fossapps,  un.pixel-fy.com"
+ui_print "-Installing Fossapps..... "
 ui_print " "
+
+
 
 # Check for min/max api version
 [ -z $MINAPI ] || { [ $API -lt $MINAPI ] && abort "! Your system API of $API is less than the minimum api of $MINAPI! Aborting!"; }
@@ -148,7 +153,7 @@ if $DEBUG; then
 fi
 
 # Extract files
-ui_print "- Extracting module files"
+#ui_print "- Extracting module files..."
 unzip -o "$ZIPFILE" -x 'META-INF/*' 'common/functions.sh' -d $MODPATH >&2
 [ -f "$MODPATH/common/addon.tar.xz" ] && tar -xf $MODPATH/common/addon.tar.xz -C $MODPATH/common 2>/dev/null
 
@@ -162,7 +167,7 @@ if [ "$(ls -A $MODPATH/common/addon/*/install.sh 2>/dev/null)" ]; then
 fi
 
 # Remove files outside of module directory
-ui_print "- Removing old files"
+#ui_print "- Removing old files..."
 
 if [ -f $INFO ]; then
   while read LINE; do
@@ -182,11 +187,11 @@ if [ -f $INFO ]; then
 fi
 
 ### Install
-ui_print "- Installing"
+#ui_print "- Installing..."
 
 [ -f "$MODPATH/common/install.sh" ] && . $MODPATH/common/install.sh
 
-ui_print "   Installing for $ARCH SDK $API device..."
+#ui_print "   Installing for $ARCH SDK $API device..."
 # Remove comments from files and place them, add blank line to end if not already present
 for i in $(find $MODPATH -type f -name "*.sh" -o -name "*.prop" -o -name "*.rule"); do
   [ -f $i ] && { sed -i -e "/^#/d" -e "/^ *$/d" $i; [ "$(tail -1 $i)" ] && echo "" >> $i; } || continue
@@ -219,8 +224,8 @@ if $DYNLIB; then
 fi
 
 # Set permissions
-ui_print " "
-ui_print "- Setting Permissions"
+#ui_print " "
+#ui_print "- Setting Permissions..."
 set_perm_recursive $MODPATH 0 0 0755 0644
 if [ -d $MODPATH/system/vendor ]; then
   set_perm_recursive $MODPATH/system/vendor 0 0 0755 0644 u:object_r:vendor_file:s0
