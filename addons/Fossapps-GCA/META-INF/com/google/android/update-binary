@@ -192,5 +192,5 @@ cd /
 $BOOTMODE || recovery_cleanup
 rm -rf $TMPDIR
 
-ui_print "- Done"
+ui_print "- Finnished! Reboot to see changes"
 exit 0
