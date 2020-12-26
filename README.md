@@ -92,6 +92,6 @@ The MicroG addon installs all of the MicroG packages from microg.org. This can c
  
  <h1 align="center"> License </h1>
  
- FOSSAPPS is released under the [Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0)
+ FOSSAPPS is released under the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
  
 <h1 align="center"> <a href="#">Back to top</a> </h1>
