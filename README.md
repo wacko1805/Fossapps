@@ -16,7 +16,7 @@ Fossapps is a Free and Open Source Gapps alternative, installing FOSS apps direc
 <h1 align="center"> Download</h1>
 
 ### Fossapps packages:
-  <a href="https://github.com/wacko1805/FOSSAPPS/releases/download/V1.8/Fossapps-V1.8.zip"><img src="https://img.shields.io/badge/Download-Stock-red"></a>  <a href="https://github.com/wacko1805/FOSSAPPS/releases/download/V1.8/Fossapps-micro-V1.8.zip"><img src="https://img.shields.io/badge/Download-Micro-red"></a>
+  <a href="https://github.com/wacko1805/FOSSAPPS/releases/download/V2.0/Fossapps-V2.0.zip"><img src="https://img.shields.io/badge/Download-Stock-red"></a>  <a href="https://github.com/wacko1805/FOSSAPPS/releases/download/V2.0/Fossapps-micro-V2.0.zip"><img src="https://img.shields.io/badge/Download-Micro-red"></a>
   
 [Apps included on the packages](#-ADD_LINK)
 ### Addons:
