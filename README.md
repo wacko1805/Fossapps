@@ -1,6 +1,8 @@
 <p align="center">
   <a href="https://un.pixel-fy.com/"><img alt="Fossapps Logo" src="https://un.pixel-fy.com/assets/images/FOSSAPPS-logo.png"></a>
   </p>
+  
+# Fossapps is not abandoned!! i just do not have the time to update it. I will probably release an update in a couple months or so.
 
 <p align="center">
   <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/wacko1805/FOSSAPPS/total?style=flat-square">
